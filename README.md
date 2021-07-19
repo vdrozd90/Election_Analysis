@@ -31,3 +31,4 @@ Assisting a Colorado Board of Elections employee, in an election audit of the ta
 ![Output](Resources/Output.PNG)
 
 ## Election-Audit Summary: 
+Overall this is a useful script that can be modified and used on any election data. For example, this script can be used to analyze data from previous years. To do this the code would have to be modified to pull the data from another csv File. Once the script is complete and results are printed, we can compare the differences in voter turnout for each County over the years. 
